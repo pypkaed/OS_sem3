@@ -1,0 +1,36 @@
+#!/bin/bash
+
+cd ~
+dateNow="$(date +%Y-%m-%d)"
+dateNowCompare="$(date -d "$dateNow" +%s)"
+
+# get the latest dated dir:
+fileDate="$(ls | grep -e "^Backup-" | sort -n | tail -1 | cut -d "-" -f 2,3,4)"
+fileDateCompare="$(date -d "$fileDate" +%s)"
+maxDirDate="$(date +%Y-%m-%d -d "$fileDate + 7 day")"
+maxDirDateCompare="$(date -d "$maxDirDate" +%s)"
+sourceFiles="$(ls ~/source)"
+
+if [[ $fileDate == "" || $maxDirDateCompare -lt $dateNowCompare ]]; then
+    mkdir "Backup-$dateNow"
+    for file in $sourceFiles; do
+	cp ~/source/$file $HOME/Backup-$dateNow/
+    done
+    echo "Directory "Backup-$dateNow" has been created on $(date). Copied files: $sourceFiles," >> ~/backup-report
+else
+    cd ~/Backup-$fileDate
+    for file in $sourceFiles; do
+	if [ -f "$PWD/$file" ]; then
+	    sourceFileSize="$(wc -c < ~/source/$file)"
+	    backupFileSize="$(wc -c < "$file")"
+	    if [[ $sourceFileSize -ne $backupFileSize ]]; then
+		mv $file $file.$dateNow
+		cp -- ~/source/$file ~/Backup-$fileDate
+		echo "New reserve file $file.$dateNow in directory Backup-$fileDate on $(date)" >> ~/backup-report
+	    fi
+	else
+	    cp -- ~/source/$file ~/Backup-$fileDate
+	    echo "Copied new file $file to directory Backup-$fileDate on $(date)" >> ~/backup-report
+	fi
+    done
+fi

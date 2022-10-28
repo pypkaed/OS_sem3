@@ -1,0 +1,14 @@
+#!/bin/bash
+
+fileDate="$(ls ~/| grep -e "^Backup-" | sort -n | tail -1 | cut -d "-" -f 2,3,4)"
+[ ! -d ~/restore ] && mkdir ~/restore
+
+cd ~/Backup-$fileDate
+backupFiles="$(ls)"
+
+for file in $backupFiles; do
+    oldFile="$(echo $file | grep -aoP '^(\w|\W)+\.[0-9]{4}-[0-9]{2}-[0-9]{2}')"
+    if [[ $file != $oldFile ]]; then
+	cp $file ~/restore
+    fi
+done

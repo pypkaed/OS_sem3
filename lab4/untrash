@@ -1,0 +1,59 @@
+#!/bin/bash
+
+file=$1
+lineCount=0
+
+[ $# -eq 0 ] || [ $# -gt 1 ] && echo "Invalid number of arguments. Exiting." && exit
+[ -d "$file" ] && echo "Input can not be a directory. Exiting." && exit
+
+while read line
+do
+    let lineCount=$lineCount+1
+    if [[ "$(echo $line | grep -oP "$file")" != "" ]]; then
+	echo "Would you like to restore $line ? [Y/N]"
+	read command </dev/tty
+	case $command in
+	    "Y")
+		cd ~/.trash
+		trashFile="$(echo $line | cut -d ":" -f 2)"
+		dir="$(echo $line | cut -d ":" -f 1 | grep -oP ".*/")"
+		if [ ! -d $dir ]; then
+		    echo "Following directory doesn't exist anymore. File is restored to Home directory."
+		    if [[ ! -f ~/$file ]]; then
+			ln -- $trashFile ~/
+		    else
+			echo "File with this name already exists. Restore with additional id in name? [Y/N]"
+			read answer </dev/tty
+			case $answer in
+			    Y)
+				ln -- $trashFile ~/$file$trashFile
+				rm -- $trashFile
+			    ;;
+			    *)
+			    ;;
+			esac
+		    fi
+		else
+		    if [ ! -f $dir$file ]; then
+			ln -- $trashFile $dir$file
+			rm -- $trashFile
+		    else
+			echo "File with this name already exists. Restore with additional id in name? [Y/N]"
+			read answer </dev/tty
+			case $answer in
+			    Y)
+				ln -- $trashFile $dir$file$trashFile
+				rm -- $trashFile
+			    ;;
+			    *)
+			    ;;
+			esac
+		    fi
+		fi
+		sed -i "$lineCount d" ~/.trash.log
+	    ;;
+	    *)
+	    ;;
+	esac
+    fi
+done < ~/.trash.log

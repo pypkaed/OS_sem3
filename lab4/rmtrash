@@ -1,0 +1,15 @@
+#!/bin/bash
+
+file=$1
+count="$(cat .count)"
+[ $# -eq 0 ] || [ $# -gt 1 ] && echo "Invalid number of arguments. Exiting." && exit
+[ -d "$file" ] && echo "Input can not be a directory. Exiting." && exit
+[ ! -e $PWD/"$file" ] && echo "File does not exist in this catalogue. Exiting." && exit
+[ -e ~/.trash ] || mkdir ~/.trash
+
+#create link with unique number
+ln -- $file ~/.trash/$count
+echo $(readlink -f $file):$count >> ~/.trash.log
+let count=$count+1; echo $count > .count
+rm -- $file
+# --: treat all further arguments as file names, not as options.
