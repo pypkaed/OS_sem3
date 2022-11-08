@@ -1,0 +1,4 @@
+#!/bin/bash
+
+top -n 1 -b | grep "newmem.bash" >> report.top
+top -n 1 -b | awk 'NR >=4 && NR <= 12 {print}' >> report.top

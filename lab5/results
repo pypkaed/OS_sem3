@@ -1,0 +1,53 @@
+ Общий объем оперативной памяти. - 7450972 kB (/proc/meminfo - MemTotal)
+ Объем раздела подкачки. - 2097148 kB (cat /proc/swaps)
+ Размер страницы виртуальной памяти. - 4096 B (getconf PAGE_SIZE)
+ Объем свободной физической памяти в ненагруженной системе. - 165 GB (df -h)
+ Объем свободного пространства в разделе подкачки в ненагруженной системе. - 2097148 kB
+
+CPu: 94-100%, 94.4; 95.4; 100; 94.0, 97.0, 90,7, 99,0, 
+
+47999990
+
+
+sudo dmesg | grep "mem.bash"
+[ 8446.895063] [  20594]  1000 20594  1441902  1335573 11591680   101745             0 mem.bash
+[ 8446.895067] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-f6c184b0-6418-4eec-887b-1e4517284e68.scope,task=mem.bash,pid=20594,uid=1000
+[ 8446.895083] Out of memory: Killed process 20594 (mem.bash) total-vm:5767608kB, anon-rss:5342292kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:11320kB oom_score_adj:0
+[ 8814.705598] [  21341]  1000 21341  1465431  1380738 11776000    80130             0 mem.bash
+[ 8814.705603] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-f6c184b0-6418-4eec-887b-1e4517284e68.scope,task=mem.bash,pid=21341,uid=1000
+[ 8814.705616] Out of memory: Killed process 21341 (mem.bash) total-vm:5861724kB, anon-rss:5522952kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:11500kB oom_score_adj:0
+
+-------------
+
+2
+
+
+sudo dmesg | grep "mem[2]*.bash"
+[sudo] password for pypka: 
+[ 8446.895063] [  20594]  1000 20594  1441902  1335573 11591680   101745             0 mem.bash
+[ 8446.895067] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-f6c184b0-6418-4eec-887b-1e4517284e68.scope,task=mem.bash,pid=20594,uid=1000
+[ 8446.895083] Out of memory: Killed process 20594 (mem.bash) total-vm:5767608kB, anon-rss:5342292kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:11320kB oom_score_adj:0
+[ 8814.705598] [  21341]  1000 21341  1465431  1380738 11776000    80130             0 mem.bash
+[ 8814.705603] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-f6c184b0-6418-4eec-887b-1e4517284e68.scope,task=mem.bash,pid=21341,uid=1000
+[ 8814.705616] Out of memory: Killed process 21341 (mem.bash) total-vm:5861724kB, anon-rss:5522952kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:11500kB oom_score_adj:0
+[12916.898825] [  24882]  1000 24882   711186   660266  5734400    46366             0 mem.bash
+[12916.898828] [  24883]  1000 24883   710559   661166  5734400    44841             0 mem2.bash
+[12930.916063] [  24882]  1000 24882   743988   696268  5996544    43139             0 mem.bash
+[12930.916065] [  24883]  1000 24883   743196   696511  5992448    42117             0 mem2.bash
+[12940.260999] [  24882]  1000 24882   765867   716350  6172672    44954             0 mem.bash
+[12940.261001] [  24883]  1000 24883   765636   717675  6172672    43392             0 mem2.bash
+[12940.261007] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-f6c184b0-6418-4eec-887b-1e4517284e68.scope,task=mem.bash,pid=24882,uid=1000
+[12940.261026] Out of memory: Killed process 24882 (mem.bash) total-vm:3063468kB, anon-rss:2865400kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:6028kB oom_score_adj:0
+[13120.080692] [  24883]  1000 24883  1530276  1442118 12304384    83605             0 mem2.bash
+[13120.080695] oom-kill:constraint=CONSTRAINT_NONE,nodemask=(null),cpuset=/,mems_allowed=0,global_oom,task_memcg=/user.slice/user-1000.slice/user@1000.service/app.slice/app-org.gnome.Terminal.slice/vte-spawn-f6c184b0-6418-4eec-887b-1e4517284e68.scope,task=mem2.bash,pid=24883,uid=1000
+[13120.080714] Out of memory: Killed process 24883 (mem2.bash) total-vm:6121104kB, anon-rss:5768472kB, file-rss:0kB, shmem-rss:0kB, UID:1000 pgtables:12016kB oom_score_adj:0
+
+
+25999990
+50999990
+----------------------------------------------------------
+
+10 newmem: no crashes.
+30 newmem: out of memory crashes
+
+30 newmem & 2399999 (/20): no crashes

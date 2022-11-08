@@ -1,0 +1,736 @@
+  24882 pypka     20   0  136248 121124   3304 S   0,0   1,6   0:04.59 mem.bash
+  24882 pypka     20   0  136248 121124   3304 S   0,0   1,6   0:04.59 mem.bash
+MiB Mem :   7276,3 total,   3501,2 free,   2367,5 used,   1407,6 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   4382,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5319 pypka     20   0  579356  46516  27376 S  20,0   0,6   1:03.28 gnome-terminal-
+   2053 pypka     39  19  789568  13480   2908 S  13,3   0,2   0:26.46 tracker-miner-f
+   2184 pypka     20   0 6009668 153440  82884 R   6,7   2,1   8:32.88 gnome-shell
+   3134 pypka     20   0   33,0g 266172 139064 S   6,7   3,6  10:05.73 opera
+   3892 pypka     20   0 1129,5g 182604 110744 S   6,7   2,5  22:43.09 opera
+MiB Mem :   7276,3 total,   3501,2 free,   2367,5 used,   1407,6 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   4382,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   5319 pypka     20   0  579356  46516  27376 S  20,0   0,6   1:03.28 gnome-terminal-
+   2053 pypka     39  19  789568  13480   2908 S  13,3   0,2   0:26.46 tracker-miner-f
+   2184 pypka     20   0 6009668 153440  82884 S   6,7   2,1   8:32.88 gnome-shell
+   3134 pypka     20   0   33,0g 266172 139064 S   6,7   3,6  10:05.73 opera
+   3892 pypka     20   0 1129,5g 182604 110744 S   6,7   2,5  22:43.09 opera
+  24882 pypka     20   0  245676 230908   3488 S   0,0   3,1   0:09.62 mem.bash
+  24882 pypka     20   0  245676 230908   3488 S   0,0   3,1   0:09.62 mem.bash
+MiB Mem :   7276,3 total,   3291,9 free,   2585,6 used,   1398,8 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   4173,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2053 pypka     39  19  789568  13552   2908 S  18,8   0,2   0:26.51 tracker-miner-f
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:55.09 pulseaudio
+   3960 pypka     20   0   33,0g   9712   8788 S   6,2   0,1   1:18.04 opera
+  24876 pypka     39  19  555576  32328  26380 S   6,2   0,4   0:00.06 tracker-extract
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+MiB Mem :   7276,3 total,   3291,6 free,   2585,8 used,   1398,9 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   4173,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0  246204 231428   3488 R  18,8   3,1   0:09.65 mem.bash
+   2053 pypka     39  19  789568  13552   2908 S  12,5   0,2   0:26.52 tracker-miner-f
+   3960 pypka     20   0   33,0g   9712   8788 S  12,5   0,1   1:18.05 opera
+  24876 pypka     39  19  555576  32328  26380 R  12,5   0,4   0:00.07 tracker-extract
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:55.09 pulseaudio
+  24882 pypka     20   0  379680 364844   3488 S   0,0   4,9   0:14.67 mem.bash
+  24882 pypka     20   0  379680 364844   3488 S   0,0   4,9   0:14.67 mem.bash
+MiB Mem :   7276,3 total,   3033,0 free,   2842,7 used,   1400,6 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   3916,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2053 pypka     39  19  789568  13552   2908 S  13,3   0,2   0:26.58 tracker-miner-f
+   3134 pypka     20   0   33,0g 265780 139060 S  13,3   3,6  10:05.84 opera
+   1976 pypka      9 -11 2627900   6884   4652 S   6,7   0,1   2:55.18 pulseaudio
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+MiB Mem :   7276,3 total,   3031,5 free,   2843,8 used,   1401,0 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   3915,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0  381132 366276   3488 R  43,8   4,9   0:14.74 mem.bash
+   2053 pypka     39  19  789568  13552   2908 S  12,5   0,2   0:26.59 tracker-miner-f
+  24876 pypka     39  19  555576  32400  26380 S  12,5   0,4   0:00.10 tracker-extract
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:55.18 pulseaudio
+   3134 pypka     20   0   33,0g 265780 139060 S   6,2   3,6  10:05.84 opera
+  24882 pypka     20   0  488976 474196   3488 S   0,0   6,4   0:19.63 mem.bash
+  24882 pypka     20   0  488976 474196   3488 S   0,0   6,4   0:19.63 mem.bash
+MiB Mem :   7276,3 total,   2816,7 free,   3057,7 used,   1401,9 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   3701,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   1994 pypka     20   0   10108   3172   1344 S   6,2   0,0   0:05.84 dbus-daemon
+   2053 pypka     39  19  789568  13552   2908 R   6,2   0,2   0:26.64 tracker-miner-f
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+MiB Mem :   7276,3 total,   2814,5 free,   3059,4 used,   1402,4 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   3700,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0  492144 477316   3488 R  93,3   6,4   0:19.77 mem.bash
+   1976 pypka      9 -11 2627900   6884   4652 S   6,7   0,1   2:55.25 pulseaudio
+   2053 pypka     39  19  789568  13552   2908 S   6,7   0,2   0:26.65 tracker-miner-f
+   3993 pypka     20   0   32,6g  49840  31436 S   6,7   0,7   2:13.30 opera
+  24876 pypka     39  19  555576  32400  26380 S   6,7   0,4   0:00.11 tracker-extract
+  24882 pypka     20   0  598404 583520   3488 S   0,0   7,8   0:24.62 mem.bash
+MiB Mem :   7276,3 total,   2600,3 free,   3272,6 used,   1403,5 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   3486,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   2053 pypka     39  19  789568  15108   2908 S  13,3   0,2   0:26.71 tracker-miner-f
+   3960 pypka     20   0   33,0g   9704   8788 S   6,7   0,1   1:18.16 opera
+  24883 pypka     20   0  598404 583384   3352 S   6,7   7,8   0:24.78 mem2.bash
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+  24882 pypka     20   0  598668 583868   3488 R  12,5   7,8   0:24.64 mem.bash
+MiB Mem :   7276,3 total,   2595,8 free,   3276,6 used,   1403,9 buff/cache
+MiB Swap:   2048,0 total,    717,1 free,   1330,9 used.   3482,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0  602232 587412   3488 R 100,0   7,9   0:24.80 mem.bash
+   3892 pypka     20   0 1129,5g 183348 110744 S  12,5   2,5  22:43.71 opera
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:55.35 pulseaudio
+  24864 pypka     20   0   21872   4320   3444 S   6,2   0,1   0:00.13 top
+  24876 pypka     39  19  555576  32400  26380 S   6,2   0,4   0:00.14 tracker-extract
+  24882 pypka     20   0  707832 692864   3488 S   0,0   9,3   0:29.65 mem.bash
+MiB Mem :   7276,3 total,   2394,0 free,   3477,6 used,   1404,8 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   3281,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0  707832 692728   3352 S  18,8   9,3   0:29.82 mem2.bash
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:55.45 pulseaudio
+   2053 pypka     39  19  789568  15440   2912 S   6,2   0,2   0:26.77 tracker-miner-f
+   8657 pypka     20   0 1860256 200292 110964 S   6,2   2,7   2:38.08 telegram-deskto
+  24965 pypka     20   0   21864   4136   3260 R   6,2   0,1   0:00.01 top
+  24882 pypka     20   0  708492 693632   3488 R  25,0   9,3   0:29.69 mem.bash
+MiB Mem :   7276,3 total,   2391,4 free,   3480,0 used,   1404,9 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   3279,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0  711924 697072   3488 R  93,8   9,4   0:29.85 mem.bash
+    497 systemd+  20   0   14824    948    540 S   6,2   0,0   0:15.34 systemd-oomd
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:55.46 pulseaudio
+   3134 pypka     20   0   33,0g 265896 139136 S   6,2   3,6  10:05.97 opera
+   3892 pypka     20   0 1129,5g 184164 110744 S   6,2   2,5  22:43.87 opera
+  24882 pypka     20   0  817128 802204   3488 S   0,0  10,8   0:34.71 mem.bash
+MiB Mem :   7276,3 total,   2180,4 free,   3690,9 used,   1405,0 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   3068,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0  817128 802068   3352 S  25,0  10,8   0:34.89 mem2.bash
+   2053 pypka     39  19  789568  15316   2912 S  12,5   0,2   0:26.84 tracker-miner-f
+   3892 pypka     20   0 1129,5g 182696 110744 S   6,2   2,5  22:44.13 opera
+  24876 pypka     39  19  555576  32404  26380 S   6,2   0,4   0:00.18 tracker-extract
+  24989 pypka     20   0   18624   3516   3256 S   6,2   0,0   0:00.01 mem2.top
+  24882 pypka     20   0  818184 803384   3488 R  33,3  10,8   0:34.76 mem.bash
+MiB Mem :   7276,3 total,   2177,0 free,   3694,3 used,   1405,1 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   3065,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0  821748 806980   3488 R 100,0  10,8   0:34.94 mem.bash
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:55.56 pulseaudio
+   1994 pypka     20   0   10108   3172   1344 S   6,2   0,0   0:05.86 dbus-daemon
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+  24882 pypka     20   0  926556 911732   3488 S   0,0  12,2   0:39.79 mem.bash
+MiB Mem :   7276,3 total,   1968,9 free,   3902,0 used,   1405,4 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   2857,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0  926556 911596   3352 S  53,3  12,2   0:39.99 mem2.bash
+   2053 pypka     39  19  789568  15460   2912 S  20,0   0,2   0:26.92 tracker-miner-f
+  24876 pypka     39  19  555576  32404  26380 S   6,7   0,4   0:00.21 tracker-extract
+  25003 pypka     20   0   18624   3460   3196 S   6,7   0,0   0:00.01 mem2.top
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+  24882 pypka     20   0  928536 913660   3488 R  56,2  12,3   0:39.88 mem.bash
+MiB Mem :   7276,3 total,   1963,2 free,   3907,8 used,   1405,3 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   2851,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0  932100 917224   3488 R 100,0  12,3   0:40.05 mem.bash
+   1976 pypka      9 -11 2627900   6884   4652 S   6,7   0,1   2:55.67 pulseaudio
+   2053 pypka     39  19  789568  15460   2912 S   6,7   0,2   0:26.94 tracker-miner-f
+   3892 pypka     20   0 1129,5g 182980 110744 S   6,7   2,5  22:44.29 opera
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+  24882 pypka     20   0 1134156   1,1g   3488 S   0,0  15,0   0:45.17 mem.bash
+MiB Mem :   7276,3 total,   1566,9 free,   4304,0 used,   1405,4 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   2455,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 1134156   1,1g   3352 S  66,7  15,0   0:45.38 mem2.bash
+   2053 pypka     39  19  789568  15324   2912 S   6,7   0,2   0:26.98 tracker-miner-f
+  24876 pypka     39  19  555576  32404  26380 S   6,7   0,4   0:00.24 tracker-extract
+  25016 pypka     20   0   18624   3712   3452 S   6,7   0,0   0:00.01 mem2.top
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+  24882 pypka     20   0 1136664   1,1g   3488 R  80,0  15,1   0:45.29 mem.bash
+MiB Mem :   7276,3 total,   1560,6 free,   4310,4 used,   1405,4 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   2449,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 1140228   1,1g   3488 R  93,8  15,1   0:45.45 mem.bash
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:55.77 pulseaudio
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+  24882 pypka     20   0 1243584   1,2g   3488 S   0,0  16,5   0:50.14 mem.bash
+MiB Mem :   7276,3 total,   1352,1 free,   4518,5 used,   1405,7 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   2240,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 1243584   1,2g   3352 S  75,0  16,5   0:50.37 mem2.bash
+  25028 pypka     20   0   18624   3556   3292 S  12,5   0,0   0:00.02 mem2.top
+    266 root      20   0       0      0      0 S   6,2   0,0   0:02.41 jbd2/nvme0n1p5-
+   1994 pypka     20   0   10108   3172   1344 S   6,2   0,0   0:05.88 dbus-daemon
+   2053 pypka     39  19  789568  15272   2912 S   6,2   0,2   0:27.05 tracker-miner-f
+  24882 pypka     20   0 1246752   1,2g   3488 R 100,0  16,5   0:50.29 mem.bash
+MiB Mem :   7276,3 total,   1344,5 free,   4526,1 used,   1405,8 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   2233,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 1250316   1,2g   3488 R  93,8  16,6   0:50.45 mem.bash
+   2053 pypka     39  19  789568  15272   2912 S   6,2   0,2   0:27.08 tracker-miner-f
+   3892 pypka     20   0 1129,5g 183536 110744 S   6,2   2,5  22:44.60 opera
+   3960 pypka     20   0   33,0g   9704   8788 S   6,2   0,1   1:18.38 opera
+  24876 pypka     39  19  555576  32404  26380 S   6,2   0,4   0:00.27 tracker-extract
+  24882 pypka     20   0 1352880   1,3g   3488 S   0,0  18,0   0:55.16 mem.bash
+MiB Mem :   7276,3 total,   1134,6 free,   4735,8 used,   1405,9 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   2023,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 1352880   1,3g   3352 S  93,8  18,0   0:55.40 mem2.bash
+   2053 pypka     39  19  789568  15256   2912 S   6,2   0,2   0:27.12 tracker-miner-f
+   3892 pypka     20   0 1129,5g 181312 110744 S   6,2   2,4  22:44.76 opera
+  24876 pypka     39  19  555576  32404  26380 S   6,2   0,4   0:00.29 tracker-extract
+  25037 pypka     20   0   21864   4220   3348 R   6,2   0,1   0:00.01 top
+  24882 pypka     20   0 1356576   1,3g   3488 R 100,0  18,0   0:55.33 mem.bash
+MiB Mem :   7276,3 total,   1126,5 free,   4743,9 used,   1406,0 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   2015,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 1360140   1,3g   3488 R 100,0  18,1   0:55.48 mem.bash
+   1994 pypka     20   0   10108   3172   1344 S   6,7   0,0   0:05.89 dbus-daemon
+   2053 pypka     39  19  789568  15256   2912 S   6,7   0,2   0:27.15 tracker-miner-f
+  25044 pypka     20   0   21864   4216   3340 R   6,7   0,1   0:00.01 top
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+  24882 pypka     20   0 1462308   1,4g   3488 S   0,0  19,4   1:00.16 mem.bash
+MiB Mem :   7276,3 total,    920,1 free,   4950,3 used,   1406,0 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   1809,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 1462308   1,4g   3352 R 100,0  19,4   1:00.40 mem2.bash
+   2053 pypka     39  19  789568  15396   2912 S   6,7   0,2   0:27.19 tracker-miner-f
+   3892 pypka     20   0 1129,5g 181568 110744 S   6,7   2,4  22:44.91 opera
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+  24882 pypka     20   0 1466532   1,4g   3488 R 100,0  19,5   1:00.36 mem.bash
+MiB Mem :   7276,3 total,    914,9 free,   4955,4 used,   1406,1 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   1804,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 1470096   1,4g   3488 R 100,0  19,5   1:00.53 mem.bash
+   1976 pypka      9 -11 2627900   6884   4652 S  12,5   0,1   2:56.02 pulseaudio
+  24876 pypka     39  19  555576  32860  26676 S  12,5   0,4   0:00.33 tracker-extract
+     14 root      20   0       0      0      0 I   6,2   0,0   0:17.09 rcu_sched
+   1994 pypka     20   0   10108   3172   1344 S   6,2   0,0   0:05.90 dbus-daemon
+  24882 pypka     20   0 1571736   1,5g   3488 S   0,0  20,9   1:05.20 mem.bash
+MiB Mem :   7276,3 total,    701,6 free,   5168,5 used,   1406,3 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   1590,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 1571340   1,5g   3352 R 100,0  20,9   1:05.43 mem2.bash
+    497 systemd+  20   0   14824    948    540 S   6,7   0,0   0:15.37 systemd-oomd
+   1994 pypka     20   0   10108   3172   1344 S   6,7   0,0   0:05.91 dbus-daemon
+   2053 pypka     39  19  789568  15440   2912 S   6,7   0,2   0:27.25 tracker-miner-f
+   3892 pypka     20   0 1129,5g 181964 110744 S   6,7   2,4  22:45.07 opera
+  24882 pypka     20   0 1576356   1,5g   3488 R 100,0  21,0   1:05.42 mem.bash
+MiB Mem :   7276,3 total,    694,5 free,   5175,5 used,   1406,3 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   1583,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 1579920   1,5g   3488 R 100,0  21,0   1:05.59 mem.bash
+   1976 pypka      9 -11 2627900   6884   4652 S   6,2   0,1   2:56.11 pulseaudio
+   2053 pypka     39  19  789568  15440   2912 S   6,2   0,2   0:27.30 tracker-miner-f
+   3892 pypka     20   0 1129,5g 181964 110744 S   6,2   2,4  22:45.08 opera
+  24876 pypka     39  19  555576  32860  26676 S   6,2   0,4   0:00.35 tracker-extract
+  24882 pypka     20   0 1681032   1,6g   3488 S   0,0  22,4   1:10.23 mem.bash
+MiB Mem :   7276,3 total,    487,6 free,   5382,4 used,   1406,4 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   1377,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 1680108   1,6g   3352 R 100,0  22,3   1:10.46 mem2.bash
+   1994 pypka     20   0   10108   3172   1344 S   6,2   0,0   0:05.92 dbus-daemon
+   2053 pypka     39  19  789568  15360   2912 S   6,2   0,2   0:27.33 tracker-miner-f
+   3892 pypka     20   0 1129,5g 183276 111692 S   6,2   2,5  22:45.22 opera
+   3960 pypka     20   0   33,0g   9704   8788 S   6,2   0,1   1:18.57 opera
+  24882 pypka     20   0 1686180   1,6g   3488 R 100,0  22,4   1:10.46 mem.bash
+MiB Mem :   7276,3 total,    480,6 free,   5389,3 used,   1406,5 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   1370,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 1689744   1,6g   3488 R  93,8  22,5   1:10.63 mem.bash
+   2053 pypka     39  19  789568  15360   2912 S   6,2   0,2   0:27.36 tracker-miner-f
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+  24882 pypka     20   0 1790460   1,7g   3488 S   0,0  23,8   1:15.27 mem.bash
+MiB Mem :   7276,3 total,    272,0 free,   5597,9 used,   1406,5 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   1161,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 1789272   1,7g   3352 R 100,0  23,8   1:15.49 mem2.bash
+   2053 pypka     39  19  789568  15280   2912 S   6,7   0,2   0:27.40 tracker-miner-f
+  24876 pypka     39  19  555576  32860  26676 S   6,7   0,4   0:00.39 tracker-extract
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+  24882 pypka     20   0 1795740   1,7g   3488 R 100,0  23,9   1:15.51 mem.bash
+MiB Mem :   7276,3 total,    261,2 free,   5608,3 used,   1406,8 buff/cache
+MiB Swap:   2048,0 total,    717,4 free,   1330,6 used.   1151,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 1799304   1,7g   3488 R 100,0  23,9   1:15.68 mem.bash
+   2053 pypka     39  19  789568  15280   2912 S   6,2   0,2   0:27.43 tracker-miner-f
+  24876 pypka     39  19  555576  32860  26676 S   6,2   0,4   0:00.40 tracker-extract
+  25107 pypka     20   0   21864   4172   3300 R   6,2   0,1   0:00.01 top
+      1 root      20   0  168172   7332   4464 S   0,0   0,1   0:01.57 systemd
+  24882 pypka     20   0 1899756   1,8g   3228 S   0,0  25,3   1:20.31 mem.bash
+MiB Mem :   7276,3 total,    116,6 free,   5773,6 used,   1386,2 buff/cache
+MiB Swap:   2048,0 total,    716,7 free,   1331,3 used.    985,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 1898568   1,8g   3084 R 100,0  25,3   1:20.55 mem2.bash
+      9 root       0 -20       0      0      0 I   6,2   0,0   0:00.24 kworker/0:1H-kblockd
+   1994 pypka     20   0   10108   3172   1344 S   6,2   0,0   0:05.93 dbus-daemon
+   3892 pypka     20   0 1129,5g 182888 111692 S   6,2   2,5  22:45.50 opera
+  24876 pypka     39  19  555576  32592  26408 S   6,2   0,4   0:00.42 tracker-extract
+  24882 pypka     20   0 1905300   1,8g   3104 R 100,0  25,4   1:20.57 mem.bash
+MiB Mem :   7276,3 total,    121,3 free,   5776,6 used,   1378,4 buff/cache
+MiB Swap:   2048,0 total,    715,4 free,   1332,6 used.    982,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 1909128   1,8g   3104 R 100,0  25,4   1:20.74 mem.bash
+   1976 pypka      9 -11 2627900   6884   4652 S   6,7   0,1   2:56.33 pulseaudio
+   2053 pypka     39  19  789568  15260   2852 S   6,7   0,2   0:27.49 tracker-miner-f
+   3892 pypka     20   0 1129,5g 182888 111692 S   6,7   2,5  22:45.51 opera
+  25118 pypka     20   0   21864   4256   3380 R   6,7   0,1   0:00.01 top
+  24882 pypka     20   0 2009184   1,9g   2780 S   0,0  26,8   1:25.36 mem.bash
+MiB Mem :   7276,3 total,    115,0 free,   5917,3 used,   1244,0 buff/cache
+MiB Swap:   2048,0 total,    712,4 free,   1335,6 used.    842,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 2007468   1,9g   2812 R 100,0  26,7   1:25.60 mem2.bash
+   1976 pypka      9 -11 2627900   6772   4540 S   6,7   0,1   2:56.38 pulseaudio
+   2053 pypka     39  19  789568  15072   2744 S   6,7   0,2   0:27.53 tracker-miner-f
+   2184 pypka     20   0 5999300 154956  84712 S   6,7   2,1   8:33.26 gnome-shell
+   3892 pypka     20   0 1129,5g 183100 111692 S   6,7   2,5  22:45.66 opera
+  24882 pypka     20   0 2015256   1,9g   2780 R 100,0  26,8   1:25.64 mem.bash
+MiB Mem :   7276,3 total,    119,9 free,   5927,0 used,   1229,4 buff/cache
+MiB Swap:   2048,0 total,    708,3 free,   1339,7 used.    832,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2018688   1,9g   2780 R 100,0  26,9   1:25.81 mem.bash
+   1994 pypka     20   0   10108   3156   1328 S   6,2   0,0   0:05.95 dbus-daemon
+   2053 pypka     39  19  789568  15072   2744 S   6,2   0,2   0:27.56 tracker-miner-f
+   3892 pypka     20   0 1129,5g 183080 111692 S   6,2   2,5  22:45.67 opera
+  24876 pypka     39  19  555576  31292  25108 S   6,2   0,4   0:00.46 tracker-extract
+  24882 pypka     20   0 2118612   2,0g   2436 S   0,0  28,2   1:30.43 mem.bash
+MiB Mem :   7276,3 total,    120,8 free,   6089,4 used,   1066,1 buff/cache
+MiB Swap:   2048,0 total,    681,7 free,   1366,3 used.    682,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 2117028   2,0g   2464 R 100,0  28,2   1:30.68 mem2.bash
+  25139 pypka     20   0   21864   4100   3224 R   6,2   0,1   0:00.01 top
+      1 root      20   0  168172   6568   3716 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+  24882 pypka     20   0 2124420   2,0g   2476 R 100,0  28,3   1:30.70 mem.bash
+MiB Mem :   7276,3 total,    123,2 free,   6101,1 used,   1052,0 buff/cache
+MiB Swap:   2048,0 total,    681,4 free,   1366,6 used.    670,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2127984   2,0g   2476 R  93,8  28,3   1:30.87 mem.bash
+   2053 pypka     39  19  789568  17044   4580 S   6,2   0,2   0:27.63 tracker-miner-f
+   2243 pypka     20   0  171896   2424   1680 S   6,2   0,0   0:01.07 gvfsd-metadata
+   8657 pypka     20   0 1860256 195168 110964 S   6,2   2,6   2:39.18 telegram-deskto
+      1 root      20   0  168172   6568   3716 S   0,0   0,1   0:01.57 systemd
+  24882 pypka     20   0 2227908   2,1g   2472 S   0,0  29,7   1:35.50 mem.bash
+MiB Mem :   7276,3 total,    126,0 free,   6256,8 used,    893,5 buff/cache
+MiB Swap:   2048,0 total,    639,8 free,   1408,2 used.    515,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 2226852   2,1g   2504 R 100,0  29,7   1:35.75 mem2.bash
+   2053 pypka     39  19  789568  17036   4664 S   6,7   0,2   0:27.67 tracker-miner-f
+   3892 pypka     20   0 1129,5g 182992 111248 S   6,7   2,5  22:45.94 opera
+  25153 pypka     20   0   21864   4088   3216 R   6,7   0,1   0:00.01 top
+      1 root      20   0  168172   6536   3684 S   0,0   0,1   0:01.57 systemd
+  24882 pypka     20   0 2233320   2,1g   2472 R  93,8  29,8   1:35.75 mem.bash
+MiB Mem :   7276,3 total,    125,0 free,   6269,4 used,    881,9 buff/cache
+MiB Swap:   2048,0 total,    639,1 free,   1408,9 used.    503,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2236884   2,1g   2472 R 100,0  29,8   1:35.92 mem.bash
+    129 root      20   0       0      0      0 S  12,5   0,0   0:23.93 kswapd0
+    565 root     -51   0       0      0      0 S   6,2   0,0   1:12.99 irq/86-rtw88_pc
+   2053 pypka     39  19  789568  17036   4664 S   6,2   0,2   0:27.70 tracker-miner-f
+   3134 pypka     20   0   33,0g 262620 136832 S   6,2   3,5  10:06.53 opera
+  24882 pypka     20   0 2337336   2,2g   2472 S   0,0  31,2   1:40.61 mem.bash
+MiB Mem :   7276,3 total,    120,3 free,   6463,4 used,    692,5 buff/cache
+MiB Swap:   2048,0 total,    631,4 free,   1416,6 used.    308,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24883 pypka     20   0 2337336   2,2g   2504 R  93,8  31,2   1:40.85 mem2.bash
+   2053 pypka     39  19  789568  16168   3788 S  12,5   0,2   0:27.75 tracker-miner-f
+    129 root      20   0       0      0      0 S   6,2   0,0   0:24.22 kswapd0
+   3892 pypka     20   0 1129,5g 174932 103676 S   6,2   2,3  22:46.10 opera
+  24876 pypka     39  19  555576  12796   6612 S   6,2   0,2   0:00.52 tracker-extract
+  24882 pypka     20   0 2341428   2,2g   2472 R 100,0  31,2   1:40.80 mem.bash
+MiB Mem :   7276,3 total,    118,9 free,   6473,8 used,    683,7 buff/cache
+MiB Swap:   2048,0 total,    631,0 free,   1417,0 used.    298,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2344860   2,2g   2472 R 100,0  31,3   1:40.96 mem.bash
+   2053 pypka     39  19  789568  16148   3768 S  13,3   0,2   0:27.78 tracker-miner-f
+   1976 pypka      9 -11 2627900   5832   3612 S   6,7   0,1   2:56.63 pulseaudio
+  24876 pypka     39  19  555576  12744   6560 S   6,7   0,2   0:00.54 tracker-extract
+      1 root      20   0  168172   6520   3668 S   0,0   0,1   0:01.57 systemd
+  24882 pypka     20   0 2446632   2,3g   2340 S   0,0  32,5   1:45.85 mem.bash
+MiB Mem :   7276,3 total,    114,8 free,   6632,6 used,    528,9 buff/cache
+MiB Swap:   2048,0 total,    593,0 free,   1455,0 used.    142,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  25184 pypka     20   0   18624   3552   3292 S  18,8   0,0   0:00.03 mem2.top
+  24883 pypka     20   0 2446632   2,3g   2372 S  12,5  32,5   1:45.97 mem2.bash
+   1994 pypka     20   0   10108   2308    480 S   6,2   0,0   0:05.97 dbus-daemon
+   2053 pypka     39  19  789568  15468   3148 S   6,2   0,2   0:27.82 tracker-miner-f
+  24876 pypka     39  19  555576  10396   4212 S   6,2   0,1   0:00.55 tracker-extract
+  24882 pypka     20   0 2447556   2,3g   2340 R  25,0  32,5   1:45.89 mem.bash
+MiB Mem :   7276,3 total,    123,9 free,   6629,4 used,    523,0 buff/cache
+MiB Swap:   2048,0 total,    590,6 free,   1457,4 used.    145,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2450592   2,3g   2340 R  93,3  32,5   1:46.04 mem.bash
+    129 root      20   0       0      0      0 S  13,3   0,0   0:24.75 kswapd0
+   2053 pypka     39  19  789568  15468   3148 S   6,7   0,2   0:27.85 tracker-miner-f
+      1 root      20   0  168172   6076   3224 S   0,0   0,1   0:01.57 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+  24882 pypka     20   0 2556060   2,3g   2340 S   0,0  32,8   1:51.12 mem.bash
+MiB Mem :   7276,3 total,    128,8 free,   6650,5 used,    497,0 buff/cache
+MiB Swap:   2048,0 total,    402,7 free,   1645,3 used.    127,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 184484  58784 S  40,0   2,5  10:07.26 opera
+   3892 pypka     20   0 1129,5g 128772  51764 S  40,0   1,7  22:47.73 opera
+  24883 pypka     20   0 2556060   2,3g   2372 S  20,0  32,7   1:51.25 mem2.bash
+  25203 pypka     20   0   18624   3652   3400 S  20,0   0,0   0:00.03 mem2.top
+    129 root      20   0       0      0      0 S  13,3   0,0   0:25.33 kswapd0
+  24882 pypka     20   0 2557380   2,3g   2340 R  40,0  32,7   1:51.18 mem.bash
+MiB Mem :   7276,3 total,    122,7 free,   6655,4 used,    498,3 buff/cache
+MiB Swap:   2048,0 total,    403,4 free,   1644,6 used.    122,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2560284   2,3g   2340 R  93,3  32,8   1:51.33 mem.bash
+   1976 pypka      9 -11 2627900   4140   2144 S  13,3   0,1   2:56.85 pulseaudio
+   2053 pypka     39  19  789568  14992   2480 S   6,7   0,2   0:27.92 tracker-miner-f
+   3892 pypka     20   0 1129,5g 128832  51804 S   6,7   1,7  22:47.74 opera
+   3993 pypka     20   0   32,5g  32844  14176 S   6,7   0,4   2:14.17 opera
+  24882 pypka     20   0 2665488   2,4g   2244 S   0,0  33,2   1:56.55 mem.bash
+MiB Mem :   7276,3 total,    129,5 free,   6688,4 used,    458,5 buff/cache
+MiB Swap:   2048,0 total,    207,8 free,   1840,2 used.    111,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4639 pypka     20   0 1129,4g 124984  30196 S  46,7   1,7   0:34.33 opera
+   4776 pypka     20   0 1129,4g  89272  19204 D  46,7   1,2   0:42.31 opera
+  24883 pypka     20   0 2665488   2,4g   2276 S  40,0  33,2   1:56.73 mem2.bash
+    129 root      20   0       0      0      0 S  20,0   0,0   0:25.90 kswapd0
+   4652 pypka     20   0 1129,4g  69916  22196 S  20,0   0,9   0:18.44 opera
+  24882 pypka     20   0 2667072   2,4g   2244 R  60,0  33,2   1:56.64 mem.bash
+MiB Mem :   7276,3 total,    117,7 free,   6694,0 used,    464,7 buff/cache
+MiB Swap:   2048,0 total,    209,6 free,   1838,4 used.    102,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2669580   2,4g   2244 D  81,2  33,2   1:56.78 mem.bash
+   3993 pypka     20   0   32,5g  31204  13028 S  56,2   0,4   2:14.35 opera
+   4776 pypka     20   0 1129,4g  89272  19204 D  43,8   1,2   0:42.42 opera
+    565 root     -51   0       0      0      0 S   6,2   0,0   1:13.05 irq/86-rtw88_pc
+   2053 pypka     39  19  789568  14668   2180 S   6,2   0,2   0:27.99 tracker-miner-f
+  24882 pypka     20   0 2774784   2,4g   1692 S   0,0  34,2   2:02.64 mem.bash
+  24882 pypka     20   0 2774784   2,4g   1692 S   0,0  34,2   2:02.64 mem.bash
+MiB Mem :   7276,3 total,    127,0 free,   6743,1 used,    406,2 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     84,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 173700  58824 D  46,7   2,3  10:09.96 opera
+   4639 pypka     20   0 1129,4g  79132  28476 R  33,3   1,1   0:35.20 opera
+   2053 pypka     39  19  789568  13240   1592 S  20,0   0,2   0:28.05 tracker-miner-f
+  24876 pypka     39  19  629308   8544   3440 S  20,0   0,1   0:00.64 tracker-extract
+   4337 pypka     20   0 1129,7g 246400  63492 D  13,3   3,3   4:37.42 opera
+MiB Mem :   7276,3 total,    123,1 free,   6746,2 used,    407,1 buff/cache
+MiB Swap:   2048,0 total,      0,9 free,   2047,1 used.     81,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2776764   2,4g   1692 D  73,3  34,3   2:02.75 mem.bash
+   3134 pypka     20   0   33,0g 173700  58824 D  40,0   2,3  10:10.01 opera
+   2053 pypka     39  19  789568  13240   1592 S  26,7   0,2   0:28.07 tracker-miner-f
+   4337 pypka     20   0 1129,7g 246400  63492 D  20,0   3,3   4:37.44 opera
+   4776 pypka     20   0 1129,4g  56992  15200 S  20,0   0,8   0:43.95 opera
+  24882 pypka     20   0 2884212   2,6g   1488 S   0,0  35,9   2:10.50 mem.bash
+MiB Mem :   7276,3 total,    131,1 free,   6770,1 used,    375,1 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     81,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3892 pypka     20   0 1129,5g  82228  21160 D  18,8   1,1  22:49.54 opera
+   4639 pypka     20   0 1129,4g  57424  13032 D  18,8   0,8   0:36.05 opera
+   4738 pypka     20   0 1129,4g  38356   3264 D  18,8   0,5   0:49.48 opera
+  25249 pypka     20   0   18624   3624   3360 S  18,8   0,0   0:00.05 mem2.top
+    129 root      20   0       0      0      0 S  12,5   0,0   0:36.67 kswapd0
+  24882 pypka     20   0 2884740   2,6g   1552 R  25,0  35,9   2:10.54 mem.bash
+MiB Mem :   7276,3 total,    123,9 free,   6775,0 used,    377,4 buff/cache
+MiB Swap:   2048,0 total,      1,4 free,   2046,6 used.     75,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2887116   2,6g   1552 D  86,7  35,9   2:10.67 mem.bash
+   2184 pypka     20   0 5997944  93732  34664 S  20,0   1,3   8:35.34 gnome-shell
+   3134 pypka     20   0   33,0g 151860  39600 R  20,0   2,0  10:11.88 opera
+   2053 pypka     39  19  789568  14852   3688 S  13,3   0,2   0:28.18 tracker-miner-f
+   3892 pypka     20   0 1129,5g  82228  21160 D  13,3   1,1  22:49.58 opera
+  24882 pypka     20   0 2993508   2,6g   1204 S   0,0  37,3   2:18.16 mem.bash
+  24882 pypka     20   0 2993508   2,6g   1204 S   0,0  37,3   2:18.16 mem.bash
+MiB Mem :   7276,3 total,    122,4 free,   6813,0 used,    340,9 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     60,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   8657 pypka     20   0 1860256  61068   5864 R  62,5   0,8   2:44.62 telegram-deskto
+    129 root      20   0       0      0      0 R  43,8   0,0   0:44.85 kswapd0
+   2053 pypka     39  19  789568  15664   5244 S  25,0   0,2   0:28.30 tracker-miner-f
+   3892 pypka     20   0 1129,5g  75156  17192 D  25,0   1,0  22:51.07 opera
+   3268 pypka     20   0   32,5g   3356      0 D  12,5   0,0   0:00.62 opera
+MiB Mem :   7276,3 total,    116,0 free,   6812,7 used,    347,7 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     57,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+  24882 pypka     20   0 2995092   2,6g   1332 R  56,2  37,3   2:18.25 mem.bash
+   8657 pypka     20   0 1860256  64052   8852 S  50,0   0,9   2:44.68 telegram-deskto
+    129 root      20   0       0      0      0 S  37,5   0,0   0:44.89 kswapd0
+   3892 pypka     20   0 1129,5g  75088  17192 R  18,8   1,0  22:51.09 opera
+   2053 pypka     39  19  789568  14724   4112 S  12,5   0,2   0:28.31 tracker-miner-f
+MiB Mem :   7276,3 total,   2578,0 free,   4181,6 used,    516,7 buff/cache
+MiB Swap:   2048,0 total,    175,3 free,   1872,7 used.   2646,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 121044  14248 D  40,0   1,6  10:14.24 opera
+   2184 pypka     20   0 5995840  83136  24300 R  13,3   1,1   8:38.18 gnome-shell
+   3417 pypka     20   0   32,9g  48868  45400 D  13,3   0,7  27:31.22 opera
+   3960 pypka     20   0   33,0g    744     88 D  13,3   0,0   1:21.02 opera
+   3736 pypka     20   0   32,5g   6204      4 D   6,7   0,1   0:10.38 opera
+MiB Mem :   7276,3 total,   2366,3 free,   4344,2 used,    565,8 buff/cache
+MiB Swap:   2048,0 total,    227,5 free,   1820,5 used.   2481,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 121900  14248 D  26,7   1,6  10:15.69 opera
+   3892 pypka     20   0 1129,5g  58808   2620 D  20,0   0,8  22:53.04 opera
+   3993 pypka     20   0   32,5g  19580   2396 D  20,0   0,3   2:19.77 opera
+    565 root     -51   0       0      0      0 S   6,7   0,0   1:13.20 irq/86-rtw88_pc
+   3417 pypka     20   0   32,9g  48868  45400 D   6,7   0,7  27:31.58 opera
+MiB Mem :   7276,3 total,   2206,3 free,   4486,2 used,    583,8 buff/cache
+MiB Swap:   2048,0 total,    256,5 free,   1791,5 used.   2339,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 121900  14248 D  18,8   1,6  10:17.29 opera
+   4738 pypka     20   0 1129,4g  36628   3216 D  12,5   0,5   0:51.33 opera
+   4776 pypka     20   0 1129,4g  40840   3116 R  12,5   0,5   0:47.41 opera
+   4797 pypka     20   0 1129,4g  51096   2896 D  12,5   0,7   0:51.88 opera
+   3417 pypka     20   0   32,9g  48868  45400 D   6,2   0,7  27:32.07 opera
+MiB Mem :   7276,3 total,   2053,2 free,   4622,0 used,    601,2 buff/cache
+MiB Swap:   2048,0 total,    280,3 free,   1767,7 used.   2203,5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3993 pypka     20   0   32,5g  19708   2456 S  25,0   0,3   2:21.44 opera
+   3966 pypka     20   0 1129,4g  28672   2556 R  18,8   0,4   0:18.38 opera
+   3134 pypka     20   0   33,0g 121988  14336 D  12,5   1,6  10:18.80 opera
+   4639 pypka     20   0 1129,4g  45368   3188 D  12,5   0,6   0:37.55 opera
+   3417 pypka     20   0   32,9g  50788  47244 S   6,2   0,7  27:32.70 opera
+MiB Mem :   7276,3 total,   1904,3 free,   4750,1 used,    621,9 buff/cache
+MiB Swap:   2048,0 total,    303,3 free,   1744,7 used.   2075,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3993 pypka     20   0   32,5g  19704   2456 S  20,0   0,3   2:22.22 opera
+   4639 pypka     20   0 1129,4g  45368   3188 D  20,0   0,6   0:37.96 opera
+   3417 pypka     20   0   32,9g  50800  47244 D  13,3   0,7  27:33.41 opera
+   3885 pypka     20   0 1129,4g  13744   2540 D  13,3   0,2   0:08.47 opera
+   3960 pypka     20   0   33,0g    812     88 S  13,3   0,0   1:23.05 opera
+MiB Mem :   7276,3 total,   1768,2 free,   4872,3 used,    635,8 buff/cache
+MiB Swap:   2048,0 total,    317,8 free,   1730,2 used.   1953,6 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 123528  15580 R  37,5   1,7  10:21.56 opera
+   3993 pypka     20   0   32,5g  19704   2456 S  12,5   0,3   2:23.14 opera
+   4318 pypka     20   0 1129,4g  13824   2572 D  12,5   0,2   0:18.91 opera
+   1976 pypka      9 -11 2627900   1860   1172 S   6,2   0,0   2:58.93 pulseaudio
+   3417 pypka     20   0   32,9g  50952  47352 D   6,2   0,7  27:34.30 opera
+MiB Mem :   7276,3 total,   1639,5 free,   4991,1 used,    645,7 buff/cache
+MiB Swap:   2048,0 total,    327,0 free,   1721,0 used.   1834,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 124120  16088 D  31,2   1,7  10:22.98 opera
+   3892 pypka     20   0 1129,5g  58900   2620 D  12,5   0,8  22:56.47 opera
+   3960 pypka     20   0   33,0g   1452    720 S  12,5   0,0   1:23.67 opera
+   4518 pypka     20   0 1129,4g  50752   5368 D  12,5   0,7   0:45.99 opera
+   3417 pypka     20   0   32,9g  50952  47352 D   6,2   0,7  27:34.87 opera
+MiB Mem :   7276,3 total,   1109,9 free,   5508,5 used,    658,0 buff/cache
+MiB Swap:   2048,0 total,    355,3 free,   1692,7 used.   1321,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 129232  20340 D  26,7   1,7  10:25.15 opera
+   4776 pypka     20   0 1129,4g  46208   8432 D  20,0   0,6   0:50.70 opera
+   3879 pypka     20   0 1129,5g  37868  20904 D  13,3   0,5   0:58.51 opera
+   4518 pypka     20   0 1129,4g  53552   8136 D  13,3   0,7   0:46.21 opera
+   4553 pypka     20   0 1129,4g  60428  10180 D  13,3   0,8   0:52.01 opera
+MiB Mem :   7276,3 total,    983,2 free,   5625,7 used,    667,5 buff/cache
+MiB Swap:   2048,0 total,    355,8 free,   1692,2 used.   1204,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4776 pypka     20   0 1129,4g  46208   8432 D  31,2   0,6   0:51.58 opera
+   3417 pypka     20   0   32,9g  50952  47352 D  12,5   0,7  27:35.58 opera
+   3867 pypka     20   0 1129,4g  36628  10908 D  12,5   0,5   0:23.72 opera
+   3879 pypka     20   0 1129,5g  37868  20904 R  12,5   0,5   0:58.93 opera
+   4652 pypka     20   0 1129,4g  30724   3068 D  12,5   0,4   0:22.47 opera
+MiB Mem :   7276,3 total,    856,4 free,   5736,4 used,    683,5 buff/cache
+MiB Swap:   2048,0 total,    358,5 free,   1689,5 used.   1093,2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 135628  25576 D  12,5   1,8  10:27.57 opera
+   3879 pypka     20   0 1129,5g  38952  21976 D  12,5   0,5   0:59.42 opera
+   3954 pypka     20   0 1129,4g  18344   4976 D  12,5   0,2   0:27.74 opera
+   4518 pypka     20   0 1129,4g  61644  15176 D  12,5   0,8   0:46.90 opera
+   4639 pypka     20   0 1129,4g  45368   3188 D  12,5   0,6   0:39.78 opera
+MiB Mem :   7276,3 total,    730,3 free,   5847,2 used,    698,9 buff/cache
+MiB Swap:   2048,0 total,    359,0 free,   1689,0 used.    982,4 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3993 pypka     20   0   32,5g  24232   7068 S  25,0   0,3   2:25.63 opera
+   3867 pypka     20   0 1129,4g  36628  10908 D  12,5   0,5   0:24.70 opera
+   3892 pypka     20   0 1129,5g  61624   5184 D  12,5   0,8  22:59.13 opera
+   4518 pypka     20   0 1129,4g  61644  15176 R  12,5   0,8   0:47.31 opera
+   4776 pypka     20   0 1129,7g  56832  18880 D  12,5   0,8   0:53.30 opera
+MiB Mem :   7276,3 total,    605,0 free,   5959,5 used,    711,8 buff/cache
+MiB Swap:   2048,0 total,    362,0 free,   1686,0 used.    870,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3867 pypka     20   0 1129,4g  43396  17068 S  25,0   0,6   0:25.67 opera
+   4776 pypka     20   0 1129,7g  60024  22068 D  25,0   0,8   0:54.30 opera
+   3892 pypka     20   0 1129,5g  64932   8480 D  18,8   0,9  22:59.79 opera
+   3417 pypka     20   0   32,9g  52596  48944 R  12,5   0,7  27:36.94 opera
+   3134 pypka     20   0   33,0g 136952  26936 D   6,2   1,8  10:29.20 opera
+MiB Mem :   7276,3 total,    471,7 free,   6080,3 used,    724,3 buff/cache
+MiB Swap:   2048,0 total,    363,8 free,   1684,2 used.    749,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 139064  29020 R  31,2   1,9  10:30.51 opera
+   3892 pypka     20   0 1129,5g  71780  15296 D  31,2   1,0  23:00.48 opera
+   3867 pypka     20   0 1129,4g  45968  19596 S  12,5   0,6   0:26.44 opera
+   3993 pypka     20   0   32,5g  29204  11872 S  12,5   0,4   2:26.72 opera
+   4639 pypka     20   0 1129,4g  53964  11188 D  12,5   0,7   0:41.34 opera
+MiB Mem :   7276,3 total,    341,1 free,   6197,4 used,    737,8 buff/cache
+MiB Swap:   2048,0 total,    374,3 free,   1673,7 used.    632,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3993 pypka     20   0   32,5g  31200  13816 S  43,8   0,4   2:27.39 opera
+   4639 pypka     20   0 1129,4g  63736  19868 D  25,0   0,9   0:41.88 opera
+   3134 pypka     20   0   33,0g 140456  30332 R  18,8   1,9  10:31.76 opera
+   3892 pypka     20   0 1129,5g  88452  26096 D  12,5   1,2  23:01.22 opera
+   3867 pypka     20   0 1129,4g  49820  27600 D   6,2   0,7   0:27.07 opera
+MiB Mem :   7276,3 total,    205,4 free,   6316,1 used,    754,8 buff/cache
+MiB Swap:   2048,0 total,    395,3 free,   1652,7 used.    513,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3134 pypka     20   0   33,0g 143640  33388 D  33,3   1,9  10:33.47 opera
+   3417 pypka     20   0   32,9g  55544  51552 D  26,7   0,7  27:38.78 opera
+   3892 pypka     20   0 1129,5g 110452  44520 S  20,0   1,5  23:02.26 opera
+   4639 pypka     20   0 1129,4g  93288  44496 S  20,0   1,3   0:42.66 opera
+      1 root      20   0  168172   3560   2960 S   0,0   0,0   0:01.98 systemd
+MiB Mem :   7276,3 total,    129,5 free,   6407,1 used,    739,8 buff/cache
+MiB Swap:   2048,0 total,    383,1 free,   1664,8 used.    402,3 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3960 pypka     20   0   33,0g   5664   4820 S  46,7   0,1   1:24.74 opera
+   4776 pypka     20   0 1129,7g  78420  40412 S  46,7   1,1   0:56.74 opera
+     14 root      20   0       0      0      0 I   6,7   0,0   0:17.20 rcu_sched
+  20791 root      20   0       0      0      0 I   6,7   0,0   0:06.48 kworker/u32:2-loop16
+      1 root      20   0  168172   3560   2960 S   0,0   0,0   0:01.98 systemd
+MiB Mem :   7276,3 total,    123,4 free,   6557,0 used,    596,0 buff/cache
+MiB Swap:   2048,0 total,    346,3 free,   1701,7 used.    268,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   4639 pypka     20   0 1131,2g 168520  72760 S 100,0   2,3   0:44.12 opera
+   3134 pypka     20   0   33,0g 164928  77248 S  40,0   2,2  10:38.52 opera
+   3417 pypka     20   0   33,0g  69748  65632 S  26,7   0,9  27:39.28 opera
+   3993 pypka     20   0   32,5g  41376  24472 S  26,7   0,6   2:29.54 opera
+   3892 pypka     20   0 1129,5g 183164 107692 S  20,0   2,5  23:05.16 opera
+MiB Mem :   7276,3 total,    130,5 free,   6563,9 used,    581,9 buff/cache
+MiB Swap:   2048,0 total,    292,2 free,   1755,8 used.    267,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3417 pypka     20   0   33,0g  68724  64676 S  50,0   0,9  27:41.24 opera
+   3892 pypka     20   0 1129,5g 182456 106672 S  31,2   2,4  23:06.59 opera
+     14 root      20   0       0      0      0 I   6,2   0,0   0:17.22 rcu_sched
+   2184 pypka     20   0 5993544  95052  37500 S   6,2   1,3   8:39.24 gnome-shell
+   3288 pypka     20   0 1234564  22676  19964 R   6,2   0,3   5:36.65 Xwayland
+MiB Mem :   7276,3 total,    125,1 free,   6587,1 used,    564,1 buff/cache
+MiB Swap:   2048,0 total,    190,7 free,   1857,3 used.    246,0 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3417 pypka     20   0   33,0g  68256  64280 S  40,0   0,9  27:43.15 opera
+   3892 pypka     20   0 1129,5g 192620 109244 S  20,0   2,6  23:08.01 opera
+   2184 pypka     20   0 5993544  93172  35716 S   6,7   1,3   8:39.39 gnome-shell
+   3288 pypka     20   0 1234564  22672  19964 S   6,7   0,3   5:37.02 Xwayland
+      1 root      20   0  168172   3552   2816 S   0,0   0,0   0:01.98 systemd
+MiB Mem :   7276,3 total,    133,0 free,   6600,1 used,    543,2 buff/cache
+MiB Swap:   2048,0 total,    112,2 free,   1935,8 used.    239,1 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3417 pypka     20   0   33,0g  67500  63584 S  46,7   0,9  27:45.19 opera
+   3892 pypka     20   0 1129,5g 191352 108916 S  26,7   2,6  23:09.36 opera
+   3288 pypka     20   0 1234564  22672  19964 S   6,7   0,3   5:37.38 Xwayland
+      1 root      20   0  168172   3520   2784 S   0,0   0,0   0:01.98 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+MiB Mem :   7276,3 total,    113,1 free,   6653,8 used,    509,4 buff/cache
+MiB Swap:   2048,0 total,     73,9 free,   1974,1 used.    205,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3417 pypka     20   0   33,0g  69440  65456 S  31,2   0,9  27:47.40 opera
+   3892 pypka     20   0 1129,5g 190188 107252 S  25,0   2,6  23:10.59 opera
+   2184 pypka     20   0 5993544  91488  34196 S   6,2   1,2   8:39.76 gnome-shell
+   3288 pypka     20   0 1234564  22668  19964 S   6,2   0,3   5:37.78 Xwayland
+  25545 pypka     20   0   21864   4292   3420 R   6,2   0,1   0:00.01 top
+MiB Mem :   7276,3 total,    133,3 free,   6689,4 used,    453,6 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.    169,7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3417 pypka     20   0   33,0g  65388  61492 S  46,7   0,9  27:49.61 opera
+   3892 pypka     20   0 1129,5g 182388 100176 S  33,3   2,4  23:12.15 opera
+   2184 pypka     20   0 5993544  86956  29820 R   6,7   1,2   8:39.95 gnome-shell
+      1 root      20   0  168172   3092   2356 S   0,0   0,0   0:01.98 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.01 kthreadd
+MiB Mem :   7276,3 total,    119,6 free,   6818,8 used,    337,9 buff/cache
+MiB Swap:   2048,0 total,      0,4 free,   2047,6 used.     73,8 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+   3892 pypka     20   0 1129,5g 140152  59080 D  50,0   1,9  23:13.65 opera
+   3134 pypka     20   0   33,0g 105928  19296 D  25,0   1,4  10:40.28 opera
+   4652 pypka     20   0 1129,4g  50120  15380 D  25,0   0,7   0:25.62 opera
+   4776 pypka     20   0 1129,4g  30936  12856 R  25,0   0,4   0:58.05 opera
+   4797 pypka     20   0 1129,4g  80260  20964 D  18,8   1,1   0:56.41 opera
+MiB Mem :   7276,3 total,    120,9 free,   6904,6 used,    250,8 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     31,9 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+    129 root      20   0       0      0      0 S  43,8   0,0   0:54.31 kswapd0
+   4776 pypka     20   0 1129,4g  21128   3052 D  18,8   0,3   0:58.65 opera
+   3134 pypka     20   0   33,0g  96208  10040 D  12,5   1,3  10:42.02 opera
+   3892 pypka     20   0 1129,5g 131408  50240 D  12,5   1,8  23:15.63 opera
+   4518 pypka     20   0 1129,4g  49144   5232 D  12,5   0,7   0:47.87 opera
