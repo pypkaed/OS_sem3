@@ -1,0 +1,1 @@
+schtasks /create /sc minute /tn secondTask /tr "C:\lab6\second\copy.cmd"

@@ -1,0 +1,3 @@
+Сравнение файлов C:\LAB6\THIRD\service.txt и C:\LAB6\THIRD\SERVICENEW.TXT
+FC: различия не найдены
+

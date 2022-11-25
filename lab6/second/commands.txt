@@ -1,0 +1,3 @@
+fc C:\Windows\%1 C:\lab6\second\temp\%1
+copy *.cmd commands.txtforfiles /P "C:\Windows" /C "cmd /c if @fsize GEQ 2097152 (chcp 1251 | copy @path C:\lab6\second\temp /Z)"taskkill /IM copy.cmdmd C:\lab6\second\temp\
+net share MyShare=C:\lab6\second\temp\ /grant:Everyone /unlimited /remark:"myshare netshare" /cache:noneschtasks /create /sc minute /tn secondTask /tr "C:\lab6\second\copy.cmd"

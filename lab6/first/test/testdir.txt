@@ -1,0 +1,4 @@
+driverquery.txt
+I.cmd
+systeminfo.txt
+testdir.txt

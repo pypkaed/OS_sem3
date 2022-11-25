@@ -1,0 +1,1 @@
+forfiles /P "C:\Windows" /C "cmd /c if @fsize GEQ 2097152 (chcp 1251 | copy @path C:\lab6\second\temp /Z)"
